@@ -1,2 +1,2 @@
 # hello-world
-professional github developer
+professional
